@@ -5,7 +5,7 @@ using System.Text;
 using SmartBot.Plugins.API;
 using SmartBotUI;
 
-//PluginTags[VERSION=01;URL=]
+//PluginTags[NAME=PALADIN;VERSION=01;URL=https://github.com/wirmate/MulliganProfiles/raw/master/MulliganProfiles/test1.cs]
 
 
 namespace SmartBot.Mulligan
